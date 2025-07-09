@@ -1,2 +1,2 @@
-# prakashraj-poertfolio
+# prakashraj-portfolio
 My personal portfolio website
